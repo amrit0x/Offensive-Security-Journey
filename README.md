@@ -52,7 +52,6 @@ All testing is performed in **authorized environments**. No sensitive data, acti
 - **GitHub:** https://github.com/amrit0x
 - **TryHackMe:** https://tryhackme.com/p/amrit0x
 - **LinkedIn:** https://linkedin.com/in/amrit0x
-- 
 
 ---
 
